@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1606922114 source:c:\users\aveth\documents\thanos\main.cpp
+	<iostream>
+	<stdint.h>
+	"defs.h"
+	"print.h"
+	"lookup_tables.h"
+	"move_gen.h"
+	"lookup_gen.h"
+	"file_reader.h"
+
+1606692116 c:\users\aveth\documents\thanos\defs.h
+	<string>
+	<sstream>
+	<assert.h>
+
+1606769044 source:c:\users\aveth\documents\thanos\movegen.cpp
+	"movegen.h"
+	<stdint.h>
+	<iostream>
+	"lookup_tables.h"
+	"defs.h"
+
+1606752218 c:\users\aveth\documents\thanos\movegen.h
+	<stdint.h>
+
+1606838543 source:c:\users\aveth\documents\thanos\lookup_tables.cpp
+	"lookup_tables.h"
+	<stdint.h>
+
+1606787023 c:\users\aveth\documents\thanos\lookup_tables.h
+	<stdint.h>
+	"defs.h"
+
+1606769724 c:\users\aveth\documents\thanos\print.cpp
+	<iostream>
+	<vector>
+	"defs.h"
+
+1606860843 source:c:\users\aveth\documents\thanos\move_gen.cpp
+	"movegen.h"
+	<stdint.h>
+	<iostream>
+	"lookup_tables.h"
+	"defs.h"
+	"print.h"
+
+1606840432 source:c:\users\aveth\documents\thanos\print.cpp
+	<iostream>
+	<vector>
+	"defs.h"
+
+1606772709 c:\users\aveth\documents\thanos\print.h
+	<stdint.h>
+	<vector>
+
+1606852882 source:c:\users\aveth\documents\thanos\piece.cpp
+	<stdint.h>
+
+1606867768 source:c:\users\aveth\documents\thanos\lookup_gen.cpp
+	"piece.cpp"
+	<stdint.h>
+	<fstream>
+	<iomanip>
+	"print.h"
+	<stdio.h>
+	<direct.h>
+
+1606852882 c:\users\aveth\documents\thanos\piece.cpp
+	<stdint.h>
+
+1606783849 c:\users\aveth\documents\thanos\move_gen.h
+	<stdint.h>
+
+1606839042 c:\users\aveth\documents\thanos\lookup_gen.h
+
+1606793158 c:\users\aveth\documents\thanos\file_reader.cpp
+
+1606852873 source:c:\users\aveth\documents\thanos\file_reader.cpp
+	"piece.cpp"
+	<stdint.h>
+	<fstream>
+	<iomanip>
+	"print.h"
+	<stdio.h>
+	<string>
+	<direct.h>
+	<iostream>
+	"file_reader.h"
+	<stdlib.h>
+	<array>
+
+1606851298 source:c:\users\aveth\documents\thanos\board.cpp
+
+1606852873 c:\users\aveth\documents\thanos\file_reader.h
+	<array>
+
